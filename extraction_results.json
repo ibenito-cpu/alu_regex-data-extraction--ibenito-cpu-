@@ -1,0 +1,83 @@
+{
+  "email": [
+    "s***********n@techcorp.com",
+    "s**********m@customer-service.co.uk",
+    "m***************z@startup.io",
+    "d******m@webservices.net",
+    "j**********n@corporate-email.com",
+    "j*********n@gmail.com",
+    "l*******n@freelancer.net",
+    "p**************k@innovation.com"
+  ],
+  "url": [
+    "https://www.secure-payments.com/checkout",
+    "https://help.techcorp.com/payment-troubleshooting",
+    "https://policies.example.com/refunds",
+    "https://portal.example.com/login",
+    "https://community.example.com/billing-questions",
+    "https://github.com/company/product/issues/1234"
+  ],
+  "phone": [
+    "(555) 123-4567",
+    "555-987-6543",
+    "555.321.0987",
+    "123-456-7890",
+    "(555) 789-0123",
+    "555.234.5678",
+    "(555) 456-7890",
+    "555-654-3210",
+    "822463-1000"
+  ],
+  "credit_card": [
+    "************9010",
+    "************9903",
+    "************1111",
+    "************9424"
+  ],
+  "time": [
+    "14:35",
+    "2:45 PM",
+    "3:15 PM",
+    "09:30",
+    "9:45 AM",
+    "11:20 AM",
+    "8:00 AM",
+    "08:15",
+    "8:00",
+    "8:15",
+    "08:30",
+    "12:00 PM",
+    "16:45",
+    "5:30 PM",
+    "17:00",
+    "5:00 PM"
+  ],
+  "html_tag": [],
+  "hashtag": [
+    "#45892",
+    "#45893",
+    "#CustomerService",
+    "#RefundPolicy",
+    "#45894",
+    "#WebsiteBug",
+    "#FixNeeded",
+    "#45895",
+    "#45896",
+    "#Subscription",
+    "#BillingHelp",
+    "#45897",
+    "#FeatureRequest",
+    "#ProductDevelopment"
+  ],
+  "currency": [
+    "$1,234.56",
+    "$1,299.99",
+    "$49.99",
+    "$39.99",
+    "$29.99",
+    "$299.99",
+    "$59.89",
+    "$15,000.00",
+    "$45,678.90"
+  ]
+}
